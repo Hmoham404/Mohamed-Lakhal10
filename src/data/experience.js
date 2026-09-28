@@ -1,7 +1,7 @@
 export const experienceData = [
   {
     id: 1,
-    company: 'Be solutions digitales',
+    company: 'MYC Beauty innovation',
     role: 'Ingénieur IA & IT',
     period: "Mars 2026 - Aujourd'hui",
     type: 'CDI / Contrat',
